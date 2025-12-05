@@ -1,0 +1,43 @@
+# Data Communication and Networking Lab
+
+![Course](https://img.shields.io/badge/Course-Data%20Communication%20%26%20Networking-blue)
+![Tools](https://img.shields.io/badge/Tools-Cisco%20Packet%20Tracer%20%7C%20Wireshark-orange)
+
+## 📌 Introduction
+This repository contains laboratory experiments and simulations for the **Data Communication and Networking** course. The projects demonstrate the practical implementation of network topologies, routing protocols, and traffic analysis.
+
+## 🛠️ Tools Used
+1.  **Cisco Packet Tracer:** Used for designing network topologies and configuring Routers, Switches, and End Devices.
+2.  **Wireshark:** Used for capturing and analyzing network packets (TCP/IP, HTTP, ARP).
+
+## 📂 Lab Experiments
+
+### Part A: Network Simulations (Packet Tracer)
+| Exp No. | Experiment Name | Description |
+| :--- | :--- | :--- |
+| **01** | **Basic Topologies** | Implementation of Basic Topology|
+| **02** | **Hybrid Topology** | Implementation of Hybrid Topology|
+| **03** | **Router Config** | Router Config with two Different Network|
+| **04** | **DHCP Server Config** | Automating IP allocation using a DHCP server. |
+| **05** | **DHCP Server With DNS** | Automating IP allocation using a DHCP server and Domain Name Server. |
+| **06** | **DHCP Server With DNS and Web Browser Access** | Automating IP allocation using a DHCP server and Domain Name Server with web Browser |
+
+
+### Part B: Packet Analysis (Wireshark)
+| Task | Analysis Description |
+| :--- | :--- |
+Working on it........
+
+## 🚀 How to Run
+1.  **Packet Tracer:** * Open the `.pkt` files using **Cisco Packet Tracer (v8.0+)**.
+    * Use the "Simulation" tab to visualize packet flow.
+2.  **Wireshark:**
+    * Open the `.pcap` files in **Wireshark**.
+    * Apply filters (e.g., `tcp`, `http`, `icmp`) to view specific traffic.
+
+
+## 👤 Author
+* **Name:** Anik Kirtania
+* **Student ID:** 23701002
+* **Department:** Computer Science & Engineering
+* **University:** University of Chittagong.
