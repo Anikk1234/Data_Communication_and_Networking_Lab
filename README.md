@@ -21,6 +21,8 @@ This repository contains laboratory experiments and simulations for the **Data C
 | **04** | **DHCP Server Config** | Automating IP allocation using a DHCP server. |
 | **05** | **DHCP Server With DNS** | Automating IP allocation using a DHCP server and Domain Name Server. |
 | **06** | **DHCP Server With DNS and Web Browser Access** | Automating IP allocation using a DHCP server and Domain Name Server with web Browser |
+| **07** | **IOT Devices Connections and Home Automation** | Working on it |
+
 
 
 ### Part B: Packet Analysis (Wireshark)
